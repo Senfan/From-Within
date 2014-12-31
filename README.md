@@ -1,4 +1,4 @@
 From-Within
 ===========
 
-Create yourself
+This git repository will record my own little app or any other thinking
